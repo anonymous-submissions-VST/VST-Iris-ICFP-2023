@@ -1,6 +1,6 @@
 ![Verified Software Toolchain](chain.jpg)
 
-anonymous version.
+anonymous version, available online at https://github.com/anonymous-submissions-VST/VST-Iris-ICFP-2023.
 
 ## How to install:
 
